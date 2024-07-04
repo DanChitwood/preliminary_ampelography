@@ -17,4 +17,4 @@ The following folder structure is necessary to run this code:
 * Outlines: `./outlines_20190614/`
 * Empty folder to store image check plots: `./check_plots_20180614/`
 * Empty folder to store leaf check plots: `./check_leaves_20190614/`
-* Empty folder to store leaf images: ./check_images_20190614/
+* Empty folder to store leaf images: `./check_images_20190614/`
